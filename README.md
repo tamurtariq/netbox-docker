@@ -1,7 +1,11 @@
 
 # 📦 NetBox Docker Deployment
 
-This project provides a simple Docker Compose setup to run [NetBox](https://netbox.dev/), a powerful infrastructure resource modeling (IRM) tool, along with PostgreSQL and Redis services.
+Welcome! This repository contains a ready-to-deploy Docker Compose setup for running [NetBox](https://netbox.dev/) — a powerful and extensible infrastructure resource modeling (IRM) tool used for managing and documenting networks, data centers, IP addresses, racks, and more.
+
+Whether you're testing locally or deploying in production, this Compose stack includes all required services: NetBox itself, a PostgreSQL database backend, and a Redis cache/queue service — all configured to work together seamlessly.
+
+---
 
 
 ## 📑 Services Included
